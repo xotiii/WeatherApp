@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="app_title">Weather Forecast</string>
+    <string name="error">Error loading. Pull down to refresh.</string>
+    <string name="enable_location_message">Please enable your location to acquire the weather forecast in your area.</string>
+    <string name="go_to_settings">Go To Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="default_font" translatable="false">sans-serif-light</string>
+    <string name="zero_degrees">0&#8451;</string>
+</resources>
